@@ -3,3 +3,9 @@
 
 ## Introducción
 Trabajo practico grupal de algoritmo y programacion 2
+
+## Tipo de proyecto
+Proyecto grupal
+
+## Tecnologías usadas
+- C
